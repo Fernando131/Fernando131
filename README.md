@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fernando131
 - 👀 I’m interested in Tech | Space | Finance | Business
 - 🌱 I’m currently learning Computer Science | C++ | JS | HTML5 + CSS | ...
-- 💞️ I’m looking to collaborate on any exciting project 
+- 💞️ I’m looking to collaborate on any EXCITING PROJECT
 - 📫 How to reach me ...
 
 <!---
